@@ -24,7 +24,7 @@ If you have completed this activity, work through the following challenge with y
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ## Submission
-[Biography Page](file:///Users/brianlockhart/Documents/Personal%20Work/Classes/1.%20July/Week%201/Module%201%20%7C%20HTML,%20CSS,%20and%20Git/Class%20Activities/Virtual%20Class%201%20%7C%20Activities/01-HTML/Solved/index.html)
+[Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
