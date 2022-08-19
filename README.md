@@ -27,4 +27,3 @@ Use [Google](https://www.google.com) or another search engine to research this.
 [Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
 
 ---
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
