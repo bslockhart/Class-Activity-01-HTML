@@ -8,9 +8,15 @@ Work with a partner to implement the following user story:
 * It's done when there is a second section that includes a subheader labeled "Contact Info" and a list that includes links to my email, GitHub, and portfolio.
 * It's done when the finished page matches the mockup.
 
-## Assets
-The following image demonstrates the web application's appearance and functionality:
+## Mockup
+* The following image demonstrates the web application's appearance and functionality:
+* Unsolved Application Appearance.
 ![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-1.png)
+
+* Solved Application appearance.
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-2.png)
+
+## Assets
 You can use this [placeholder image](https://via.placeholder.com/200).
 ---
 
@@ -22,6 +28,10 @@ Refer to the [Full-Stack Blog HTML Cheatsheet](https://coding-boot-camp.github.i
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 * What are the advantages of using semantic HTML elements?
 Use [Google](https://www.google.com) or another search engine to research this.
+1. The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
+2. The pages made with semantic elements are much easier to read.
+3. It has greater accessibility. It offers a better user experience.
+
 
 ## Submission
 [Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
