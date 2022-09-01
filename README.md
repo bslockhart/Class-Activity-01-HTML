@@ -16,10 +16,6 @@ Work with a partner to implement the following user story:
 * Solved Application appearance.
 ![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](./assets/image-2.png)
 
-## Assets
-You can use this [placeholder image](https://via.placeholder.com/200).
----
-
 ## 💡 Hints
 How can you use header elements to define the most important heading and the subheaders? How does using different header elements impact the size of the text?
 Refer to the [Full-Stack Blog HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet).
