@@ -30,6 +30,6 @@ Use [Google](https://www.google.com) or another search engine to research this.
 
 
 ## Submission
-[Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
+![Biography Page](https://bslockhart.github.io/Class-Activity-01-HTML)
 
 ---
